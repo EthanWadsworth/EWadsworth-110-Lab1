@@ -60,4 +60,4 @@ I also really enjoy teaching and being involved with computer science education.
 # More Info
 If you want to learn more about me and what I've done, visit my [website](https://ethanwadsworth.github.io/)!
 
-[README to back to submission](README.md)
+[Link to README for assignment](README.md)
